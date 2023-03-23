@@ -4,7 +4,7 @@ int main(){
     printf("\n Hola mundo!");
 
     //Declaración de variables y punteros
-    int edad=20;
+    int edad=21;
     int *puntero;
     
     //Puntero apunta a la variable edad
